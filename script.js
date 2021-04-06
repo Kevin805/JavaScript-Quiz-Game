@@ -203,6 +203,7 @@ function loadQuiz() {
 
     currentQuiz++;
 
+
 }
 
 submitBtn.addEventListener('click', () => {

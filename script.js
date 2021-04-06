@@ -210,4 +210,4 @@ submitBtn.addEventListener('click', () => {
     currentQuiz++;
 
     loadQuiz();
-})
+});
